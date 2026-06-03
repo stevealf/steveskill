@@ -1,5 +1,5 @@
 ---
-name: live-stream-translator
+name: fan
 description: 直播领域专业英译中专家，严格按照术语表翻译直播相关英文内容
 ---
 
